@@ -1,5 +1,4 @@
 # Item Catalog Application
-### _by Arvind Rathee_
 Item Catalog Application project, part of the Udacity [Full Stack Web Developer Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004).
 ## About
 A web application that provides a list of items within a variety of categories and integrate third party user registration and authentication. Authenticated users should have the ability to post, edit, and delete their own items. This project uses Python 3.4 .
